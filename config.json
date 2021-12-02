@@ -1,0 +1,17 @@
+{
+  "main": [
+    {
+      "token": "token",
+      "cogs_load": true,
+      "is_sharded": true,
+      "owners_count": 3,
+      "default_pref": "!"
+    }
+  ],
+  "features": [
+    {
+      "dynamic_pref": true,
+      //"lang": "rus"
+    }
+  ]
+}
